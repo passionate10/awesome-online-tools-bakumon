@@ -68,6 +68,7 @@
 
 ## Develop
 
+- [devpick.sh](https://devpick.sh/) - Fast, privacy-first developer tools for JSON, Base64, CSV, JWT, timestamps, hashes, and more. Runs 100% client-side.
 - [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
 - [defkey.com](https://defkey.com/) - 已知道应用热键列表网站，为系统热键设置提供指导
 - [Redirect Checker](https://redirect-checker.autocompany.workers.dev) - HTTP 重定向链分析器，检测重定向循环，支持多种 User-Agent
