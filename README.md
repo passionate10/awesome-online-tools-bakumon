@@ -65,6 +65,7 @@
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. Client-side via WebAssembly; files never leave the browser.
+- [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools including AI-powered workflows: merge, split, compress, convert, edit, sign, and protect PDFs. No signup required, files are deleted after 1 hour.
 
 ## Develop
 
