@@ -45,6 +45,7 @@
 
 ## Test
 
+- [KeyboardTester.click](https://keyboardtester.click/) - Free browser-based hardware testing suite for keyboard, mouse, screen, microphone, webcam, and audio diagnostics. No install or signup.
 - [PageSpeed](https://developers.google.com/speed/pagespeed/) - Analyze your site performance(谷歌网站测速工具)
 
 ## Efficiency
