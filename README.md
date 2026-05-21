@@ -45,6 +45,7 @@
 
 ## Test
 
+- [KeyboardTester.click](https://keyboardtester.click/) - Free browser-based hardware testing suite for keyboard, mouse, screen, microphone, webcam, and audio diagnostics. No install or signup.
 - [PageSpeed](https://developers.google.com/speed/pagespeed/) - Analyze your site performance(谷歌网站测速工具)
 
 ## Efficiency
@@ -61,14 +62,17 @@
 ## Website
 
 - [AllInOneTools](https://allinonetools.net) – A collection of free, privacy-first online tools including calculators, converters, PDF, image, and SEO utilities.
+- [AllPDFMagic](https://allpdfmagic.com) - 33+ free online PDF tools with AI workflows. Merge, compress, convert, sign — no signup required. All browser-based.
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. Client-side via WebAssembly; files never leave the browser.
 - [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools including AI-powered workflows: merge, split, compress, convert, edit, sign, and protect PDFs. No signup required, files are deleted after 1 hour.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based web utilities — domain name generator, OG image generator, AI background remover, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. No signup, all client-side, open source.
 
 ## Develop
 
+- [devpick.sh](https://devpick.sh/) - Fast, privacy-first developer tools for JSON, Base64, CSV, JWT, timestamps, hashes, and more. Runs 100% client-side.
 - [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
 - [defkey.com](https://defkey.com/) - 已知道应用热键列表网站，为系统热键设置提供指导
 - [Redirect Checker](https://redirect-checker.autocompany.workers.dev) - HTTP 重定向链分析器，检测重定向循环，支持多种 User-Agent
@@ -97,3 +101,7 @@
 - [TableConvert](https://tableconvert.com/) - 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
 - [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code
 
+
+- [Utilko](https://utilko.com) — 300+ free online tools (JSON formatter, calculators, converters, image tools, PDF tools, and more). All tools run client-side in the browser. No signup required.
+
+- [Utilko](https://utilko.com) — 300+ free online tools (JSON formatter, calculators, converters, image tools, PDF tools, and more). All tools run client-side in the browser. No signup required.
